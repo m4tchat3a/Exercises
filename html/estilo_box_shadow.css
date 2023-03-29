@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(179, 139, 112);
+}
+
+#caixa {
+  background-color: rgb(141, 81, 41);
+  width: 45%;
+  margin: auto;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 5px 5px 8px #000000;
+}
+
+#titulo {
+  font-family: verdana;
+  text-align: center;
+  color: #6b1c09;
+  font-size: 22px;
+}
+
+#paragrafo,
+#lista {
+  font-family: arial;
+  font-size: 16px;
+  text-align: justify;
+  font-weight: bold;
+}
+
+#lista {
+  list-style-type: circle;
+  line-height: 1.5;
+}
