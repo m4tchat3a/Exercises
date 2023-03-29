@@ -12,7 +12,7 @@ void Exibir_Agd();
 void Grupo() {
 cout<<"\nTurma: 1 Internet E";
 cout<<"\nLeandro dos Santos Bido  No 15";
-cout<<"\nLa¡s de Souza Freitas  No 14";
+cout<<"\nLaÂ¡s de Souza Freitas  No 14";
 cout<<"\nLuanda Catarina  No 37\n";
 cout<<"\n";}
 
