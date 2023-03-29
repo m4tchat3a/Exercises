@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(233, 232, 232);
+}
+
+h1 {
+    font-family: Verdana;
+    font-size: 2em;
+    text-align: center;
+    color:rgb(94, 66, 43)
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 1em;
+    text-align: center;
+    color:rgb(58, 41, 27)
+}
+
+div {
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+    border: 2px solid rgb(221, 166, 129);
+    border-radius: 5px;
+}
