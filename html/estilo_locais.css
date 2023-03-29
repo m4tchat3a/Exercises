@@ -1,0 +1,24 @@
+#titulo {
+  text-align: center;
+  font-family: "Comic Sans MS";
+  font-size: 2em;
+  text-shadow: 3px 3px 3px #2d2d2d;
+}
+
+$ container {
+  margin: auto;
+  width: 500px;
+  border: 2px solid #571d1d;
+  box-shadow: 3px 3px 5px #1f0101;
+  background-color: #7d6550;
+  padding: 20px;
+  padding-left: 40px;
+  border-radius: 10px;
+}
+
+.subtitulo {
+  text-align: center;
+  font-family: arial;
+  font-size: 1.4em;
+  color: #f5aa4f;
+}
