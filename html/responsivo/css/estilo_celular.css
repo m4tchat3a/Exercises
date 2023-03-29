@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(252, 244, 209);
+}
+
+#titulo {
+    font-size: 2em;
+    color: rgb(117, 83, 39);
+}
+
+#tabela {
+    grid-template-columns: auto auto;
+    grid-gap: 5px;
+    border: 2px solid #073a0f;
+    background-color: rgb(79, 129, 94);
+}
+
+#tabela > div {
+    font-size: 1.25em;
+    font-family: verdana;
+    color: #fff;
+    font-weight: bold;
+    background-color: rgb(79, 129, 94);
+}
