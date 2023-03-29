@@ -1,0 +1,27 @@
+body {
+    background-color: #eea7f5ea;
+}
+
+#caixa {
+    background-color: #a7b3f5ea;
+    width: 50%;
+    margin: auto;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+
+#titulo {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(255, 168, 197);
+
+}
+p {
+    font-family: Arial;
+    font-size: 14px;
+
+}

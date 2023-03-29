@@ -1,0 +1,31 @@
+body {
+    background-color: #777978;
+ }
+ 
+ h1 {
+     text-align: center;
+     font-family: "Comic Sans MS";
+     font-size: 24px;
+ }
+ h2 {
+     text-align: center;
+     font-family: "arial" ;
+     font-size: 20px;
+     font-weight: bold;
+     color: #9efaf2
+ }
+ h3 {
+     text-align: center;
+     font-family: "verdana" ;
+     font-size:12px;
+     font-weight: bold;
+     font-style: italic;
+     color: #000;
+ 
+ }
+ p {
+     text-align: center;
+     font-family: "verdana" ;
+     font-size: 14px;
+     font-weight: bold;
+ }

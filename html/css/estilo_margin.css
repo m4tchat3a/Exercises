@@ -1,0 +1,28 @@
+body {
+    background-color: #deb887;
+}
+
+#titulo {
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.subtitulo {
+    font-family: verdana;
+    font-size: 1.2em;
+    text-align: center;
+    color: #332003;
+}
+
+#metodo_normal {
+    text-align: center;
+    font-family: arial;
+    color: #332003;
+    border: 3px solid #8a461a;
+    margin-top: 30px;
+    margin-right: 400px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+}

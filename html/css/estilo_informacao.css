@@ -1,0 +1,22 @@
+body {
+    background-color: #e08bf5;
+}
+
+#titulo {
+    font-family: verdana;
+    font-size: 26px;
+    text-align: center;
+    color: #a129a5;
+}
+
+.paragrafo {
+    font-family: verdana;
+    font-size: 18px;
+    text-align: justify;
+    margin: 50px;
+    color: #b4276e;
+}
+
+#regua_horizontal {
+    width: 90%;
+}

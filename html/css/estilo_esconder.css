@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(91, 70, 110);
+}
+
+#titulo, #titulo_escondido {
+    font-family: Tahoma;
+    font-size: 2em;
+    color: #ffffff;
+}
+
+#titulo_escondido {
+    /* visibility: hidden; */
+    display: none;
+}
+
+#paragrafo {
+    font-family: Verdana, Arial;
+    font-size: 1.1em;
+    color: #ffffff;
+    font-weight: bold;
+}
