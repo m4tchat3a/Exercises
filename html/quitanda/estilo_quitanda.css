@@ -1,0 +1,77 @@
+body {
+  background-color: #f0f0f0;
+}
+
+h1#titulo {
+  font-family: verdana;
+  font-size: 24px;
+  text-align: center;
+}
+
+h2#frutas {
+  font-family: verdana;
+  font-size: 16px;
+  color: #ff2a00;
+}
+
+h2#verduras {
+  font-family: verdana;
+  font-size: 16px;
+  color: #195800;
+}
+
+h2#legumes {
+  font-family: verdana;
+  font-size: 16px;
+  color: #195800;
+}
+
+h2#cereais {
+  font-family: verdana;
+  font-size: 16px;
+  color: #ffd480;
+}
+
+ul#lista_frutas {
+  list-style-type: disc;
+  font-family: verdana;
+  font-size: 14px;
+}
+
+ul#lista_verduras {
+  list-style-type: circle;
+  font-family: verdana;
+  font-size: 14px;
+}
+ul#lista_vegetais {
+  list-style-type: square;
+  font-family: verdana;
+  font-size: 14px;
+}
+
+ul#lista_cereais {
+  list-style-type: none;
+  font-family: verdana;
+  font-size: 14px;
+}
+
+ul#lista_legumes {
+  list-style-type: none;
+  font-family: verdana;
+  font-size: 14px;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-family: verdana;
+  font-size: 12px;
+}
+
+#caixa {
+  width: 1200;
+  background-color: #f0f0f0;
+  border-radius: 15px;
+}
