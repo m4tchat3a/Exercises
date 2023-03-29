@@ -1,0 +1,11 @@
+//ExThreads.java
+import javax.swing.*;
+public class ExThreads {
+    public static void main(String args[])
+{
+    Tarefa_1 T1 = new Tarefa_1("Tarefa 1 contador 0 a 10");
+    Tarefa_2 T2 = new Tarefa_2("Tarefa 2 contador 10 a 0");
+    Tarefa_3 T3 = new Tarefa_3("Tarefa 3 contador 50 a 60");
+    T1.start(); T2.start(); T3.start();
+}}
+
