@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+
+#perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+#esquerda {
+    background-color: #335384;
+    width: 18em;
+    float: left;
+}
+
+#direita {
+    float: right;
+}
