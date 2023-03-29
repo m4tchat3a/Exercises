@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <script type="text/javascript">
+      function soma() {
+        var val1, val2;
+        val1 = document.getElementById("valor1").value;
+        val2 = document.getElementById("valor2").value;
+        document.write(parseInt(val1) + parseInt(val2));
+      }
+
+      function subtrai() {
+        var val1, val2;
+        val1 = document.getElementById("valor1").value;
+        val2 = document.getElementById("valor2").value;
+        document.write(parseInt(val1) - parseInt(val2));
+      }
+
+      function multiplica() {
+        var val1, val2;
+        val1 = document.getElementById("valor1").value;
+        val2 = document.getElementById("valor2").value;
+        document.write(parseInt(val1) * parseInt(val2));
+      }
+
+      function divide() {
+        var val1, val2;
+        val1 = document.getElementById("valor1").value;
+        val2 = document.getElementById("valor2").value;
+        document.write(parseInt(val1) / parseInt(val2));
+      }
+    </script>
+  </head>
+  <body>
+    <form action="" method="post">
+      <input placeholder="Valor 1" type="text" id="valor1" /><br />
+      <input placeholder="Valor 2" type="text" id="valor2" /><br />
+      <input type="button" onclick="soma() ;" value="Somar" />&nbsp;&nbsp;
+      <input type="button" onclick="subtrai() ;" value="Subtrai" />&nbsp;&nbsp;
+      <input type="button"  onclick="multiplica() ;"    value="Multiplica"  />&nbsp;&nbsp;
+      <input type="button" onclick="divide() ;" value="Divide" />&nbsp;&nbsp;
+    </form>
+  </body>
+</html>
