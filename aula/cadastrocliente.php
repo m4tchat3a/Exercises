@@ -3,7 +3,6 @@ session_start();
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
     <title>Cadastro de Login</title>
@@ -24,6 +23,10 @@ session_start();
         <div class="field">
             <label for="email">E-mail:</label>
             <input type="email" id="email" name="email" placeholder="E-mail*" required>
+        </div>
+        <div class="field">
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" name="senha" placeholder="Senha*" required>
         </div>
         <input type="submit" name="acao" value="Cadastrar">
     </form>
